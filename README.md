@@ -1,1 +1,8 @@
-# 1-12-24
+```
+npm install
+npm run dev
+```
+
+```
+npm run deploy
+```
